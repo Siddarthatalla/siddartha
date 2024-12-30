@@ -1,0 +1,12 @@
+<DOCTYPE HTML>
+<html>
+<head>
+<title>student registration</title>
+</head>
+<body>
+<h1><center>REGISTRATION FORM</center></h1>
+first name:<inputtype="text"placeholder="enterfirst name"><br></br>
+last name:<inputtype="text"placeholder="enter lastname"><br></br>
+email:<inputtype="text"placeholder="enter emailname"><br></br>
+click here:<inputtype="text"value="submit"><br></br>
+
